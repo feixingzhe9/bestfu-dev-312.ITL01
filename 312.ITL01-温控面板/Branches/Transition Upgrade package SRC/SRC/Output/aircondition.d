@@ -1,0 +1,14 @@
+..\output\aircondition.o: ..\User\Air\AirCondition.c
+..\output\aircondition.o: ..\User\Air\AirCondition.h
+..\output\aircondition.o: ..\Lib_code\App\BF_type.h
+..\output\aircondition.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\aircondition.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\aircondition.o: ..\User\RS485\Polling.h
+..\output\aircondition.o: ..\Lib_code\SysHard\inc\SysTick.h
+..\output\aircondition.o: ..\User\Air\AirUnit.h
+..\output\aircondition.o: ..\Lib_code\SysLib\inc\Thread.h
+..\output\aircondition.o: ..\User\Air\AirAttr.h
+..\output\aircondition.o: ..\Lib_code\App\UnitCfg.h
+..\output\aircondition.o: ..\Lib_code\SysLib\inc\UserData.h
+..\output\aircondition.o: ..\User\ADC\ADC.h
+..\output\aircondition.o: ..\Lib_code\SysHard\inc\GPIO.h

@@ -1,0 +1,15 @@
+..\output\keyunit.o: ..\User\Key\KeyUnit.c
+..\output\keyunit.o: ..\User\Key\KeyUnit.h
+..\output\keyunit.o: ..\Lib_code\App\BF_type.h
+..\output\keyunit.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\keyunit.o: ..\User\Key\KeyPort.h
+..\output\keyunit.o: ..\Lib_code\SysHard\inc\GPIO.h
+..\output\keyunit.o: ..\Lib_code\SysLib\inc\Thread.h
+..\output\keyunit.o: ..\User\Air\AirCondition.h
+..\output\keyunit.o: D:\Keil\Keil_V5_16\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\keyunit.o: ..\User\RS485\Polling.h
+..\output\keyunit.o: ..\Lib_code\SysHard\inc\SysTick.h
+..\output\keyunit.o: ..\User\Air\AirUnit.h
+..\output\keyunit.o: ..\User\Air\AirAttr.h
+..\output\keyunit.o: ..\Lib_code\App\UnitCfg.h
+..\output\keyunit.o: ..\Lib_code\SysLib\inc\UserData.h

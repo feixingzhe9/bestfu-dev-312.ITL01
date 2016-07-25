@@ -1,0 +1,14 @@
+..\output\polling.o: ..\User\RS485\Polling.c
+..\output\polling.o: ..\User\RS485\Polling.h
+..\output\polling.o: ..\Lib_code\App\BF_type.h
+..\output\polling.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\polling.o: ..\Lib_code\SysHard\inc\SysTick.h
+..\output\polling.o: ..\User\Air\AirUnit.h
+..\output\polling.o: ..\User\CRC\CRC16.h
+..\output\polling.o: ..\User\Air\DeviceRelate.h
+..\output\polling.o: ..\Lib_code\App\UnitCfg.h
+..\output\polling.o: ..\Lib_code\SysLib\inc\UserData.h
+..\output\polling.o: ..\Lib_code\SysHard\inc\usart.h
+..\output\polling.o: ..\User\Conifig\config.h
+..\output\polling.o: ..\Lib_code\SysHard\inc\test.h
+..\output\polling.o: ..\User\Key\KeyUnit.h
